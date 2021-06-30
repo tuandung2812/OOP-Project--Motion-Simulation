@@ -6,7 +6,17 @@ Team Members:
 - Pham Van Cuong - 20194421 – cuong.pv194421@sis.hust.edu.vn
 - Nguyen Tuan Dung - 20194427 - dung.nt194427@sis.hust.edu.vn
 
-
+# Problem description
+  Please read the pdf file in the "problem description: directory
+  
+# Project Structure
+  + design : this directory contains the use case diagram and the class diagrams for the project
+  + presentation: contains the presentation
+  + problem description : contains brief description for our problem
+  + report : contains the project's report paper
+  + sourcecode : contains the source code 
+  + You can also view our group's demo video for the system here : https://drive.google.com/file/d/1A9UDNGIRhWGYtT0B906GUPOCUYdytikT/view?usp=sharing
+  
 # Member Assignments
 ## 1.	Phạm Việt Thành - 20194454
 ### a)	Main class
@@ -38,9 +48,6 @@ Team Members:
 -	Vector representation of forces: 70 %
 -	Pause button 
 
-
-## Presentation Video
-[Video Link](https://drive.google.com/file/d/1XIdcQ-SAAhcL2LiRdVqaPfhC7jl81opy/view?usp=sharing)
 
 ## Demonstration Video
 [Video Link](https://drive.google.com/file/d/1A9UDNGIRhWGYtT0B906GUPOCUYdytikT/view?usp=sharing)
